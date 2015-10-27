@@ -1,0 +1,11 @@
+.quill .quill-contents {
+  background: #fff;
+  border: 1px solid #CCCCCC;
+  border-top: none;
+}
+
+.quill .ql-toolbar {
+  background: #fff;
+  border: 1px solid #CCCCCC;
+}
+
